@@ -1,0 +1,47 @@
+{
+  "short_name": "CareerMentor",
+  "name": "AI Career Mentor — Career Accelerator & ATS Studio",
+  "id": "/",
+  "start_url": "/",
+  "background_color": "#0a0d14",
+  "theme_color": "#0a0d14",
+  "display": "standalone",
+  "orientation": "any",
+  "categories": ["education", "productivity", "career"],
+  "description": "AI-Powered Career Accelerator: ATS Resume Analysis, Skill Gap Mapping, 10 Roadmaps, and AI Mock Interviews.",
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "maskable any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "ATS Resume Builder",
+      "short_name": "Resume",
+      "description": "Build and preview ATS-optimized resumes",
+      "url": "/?page=resume-builder"
+    },
+    {
+      "name": "AI Mock Interview",
+      "short_name": "Interview",
+      "description": "Practice mock technical and behavioral interviews",
+      "url": "/?page=interview"
+    },
+    {
+      "name": "Career Roadmaps",
+      "short_name": "Roadmaps",
+      "description": "Explore 10 curated tech career roadmaps",
+      "url": "/?page=roadmap"
+    }
+  ]
+}
+

@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Mentor",
+  "description": "Modern PWA AI-powered career development platform for candidates, freshers, and tech job seekers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
