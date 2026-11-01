@@ -51,8 +51,8 @@ AI Career Mentor provides an open-source, local-first platform to address these 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kirubakaran-in08/ai-career-mentor.git
-   cd ai-career-mentor
+   git clone https://github.com/kirubakaran-08/AI-career-mentor.git
+cd AI-career-mentor
    ```
 
 2. Install dependencies:
